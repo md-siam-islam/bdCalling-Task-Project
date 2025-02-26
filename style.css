@@ -4,3 +4,10 @@ background: var(--Orange-orange-700, #B54800);
 font-weight: 600;
 color: white;
 }
+
+.banner {
+    background-image: url('Image/BannerImage.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
